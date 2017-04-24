@@ -1,0 +1,18 @@
+echo "# git_practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/user/repo.git
+git push -u origin master
+
+
+
+Ignoring Files:
+https://help.github.com/articles/ignoring-files/
+
+touch .gitignore
+
+If you already have a file checked in then
+git rm --cached FILENAME
+
+commit and push
