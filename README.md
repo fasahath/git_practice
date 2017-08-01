@@ -5,6 +5,6 @@ Happy Branching!
 
 Another change!
 
-Yyet another change!
+Yet another change!
 
 BAM!
